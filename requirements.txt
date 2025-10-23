@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pypdf2
+spacy
+sentence-transformers
+numpy
+pandas
+streamlit
+requests
+tqdm
